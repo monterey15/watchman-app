@@ -1,4 +1,4 @@
- Watchman-app
+## Watchman-app
 
 A self-control app that helps you manage screen time by blocking distracting websites and apps during scheduled hours.
 
